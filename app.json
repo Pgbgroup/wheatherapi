@@ -1,0 +1,7 @@
+{
+    "name": "Weather API",
+    "description": "Weather api",
+    "repository": "https://github.com/Technostone-dev",
+    "logo": "https://www.technostone.xyz/wp-content/uploads/2022/03/android-chrome-512x512-1.png",
+    "keywords": ["weather", "weather-api", "yahoo-wezther", "express"]
+}
